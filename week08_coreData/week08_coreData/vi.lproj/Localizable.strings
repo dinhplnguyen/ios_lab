@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  week08_coreData
+
+  Created by Dinh Phi Long Nguyen on 2022-10-29.
+  
+*/
+
+"Student ID" = "Số học sinh";
+"Name" = "Tên";
+"School" = "Trường học";
+
+"Save" = "Lưu";
+"Student" = "Học sinh";
